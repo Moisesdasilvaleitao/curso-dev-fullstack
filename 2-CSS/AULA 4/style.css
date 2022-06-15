@@ -1,0 +1,18 @@
+body {
+    background: #dfdfdf
+}
+
+.foto{
+    width: 200px;
+    border: 2px solid #000000; /*shorthand*/
+/*  border-width:5px;
+    border-style:solid
+    border-color:#000000;
+*/    
+    border-radius:  20% 75% 20% 75%; /*se colocar apenas 1 valor de 50% ja deixa a borda totalmente redonda*/
+ 
+}
+
+p{
+    color:rgb(34, 34, 34);
+}
